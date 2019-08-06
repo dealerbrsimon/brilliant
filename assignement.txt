@@ -8,9 +8,11 @@ During the second world war, the German designed Enigma, a machine that was able
 
 Turing was one of the brave mind who tried to tackle this massive decryption initiative. 
 
-Enigma's code could be cracked ! While the possiblities where numerous, he designed a machine that could test the possible combinations, not only faster but more systematically then what the wold most eminent cryptographers where able to do at that time. 
+Enigma's code could be cracked ! While the possiblities where numerous, he designed a machine that could test the possible combinations, not only faster but more systematically then what the wold most eminent cryptographers where able to do at
+that time. 
 
-We have already seen Caesar shifts and while we will not see the specifics of Enigma and the tools to solve this problem ( yet ;) , we will go one step further in term of complexity and learn about Vigenere cipher. 
+We have already seen Caesar shifts and while we will not see the specifics of Enigma and the tools to solve this problem 
+( yet ;) , we will go one step further in term of complexity and learn about Vigenere cipher. 
 
 
 Question 1 
