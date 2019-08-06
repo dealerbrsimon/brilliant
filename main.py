@@ -3,7 +3,7 @@ Functions that could be used to familiarize the student with different topics, i
 '''
 
 import matplotlib.pyplot as plt
-from exemples import original_message,crypted_message
+from ex import original_message,crypted_message
 
 def gen_distribution(message) : 
 	'''
