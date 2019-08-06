@@ -1,0 +1,34 @@
+'War. War never changes. The Romans waged war to gather slaves and wealth. Spain built an empire from its lust for gold and territory. Hitler shaped a battered Germany into an economic superpower. But war never changes. '
+
+'Ron Pearlman, Falout'
+
+Encrypting communication has been a tool in many wars to achieve victory. 
+
+During the second world war, the German designed Enigma, a machine that was able to encrypt messages and allow free and secure communication between them. 
+
+Turing was one of the brave mind who tried to tackle this massive decryption initiative. 
+
+Enigma's code could be cracked ! While the possiblities where numerous, he designed a machine that could test the possible combinations, not only faster but more systematically then what the wold most eminent cryptographers where able to do at that time. 
+
+We have already seen Caesar shifts and while we will not see the specifics of Enigma and the tools to solve this problem ( yet ;) , we will go one step further in term of complexity and learn about Vigenere cipher. 
+
+
+Question 1 
+
+An old scholar presents you with a passage from a curious book,he thinks that it is written in a old tongue and wants your advice on the case. You think It might be appropriate to try some of your decription tehcniques before giving up. 
+
+'wkdw lv qrw ghdg zklfk fdq hwhuqdo olh dqg zlwk vwudqjh dhrqv hyhq ghdwk pdb glh'
+
+Question 2 
+
+How is letter distribution visualisation helpful in the initial decription phase ? 
+
+Question 3 
+
+'Discussion'
+How much do you think that good encryption technique has helped Julius Caesar to build the Roman Empire ? 
+
+Question 4 
+
+'Discussion'
+Encryption and Internet security.
